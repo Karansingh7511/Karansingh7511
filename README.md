@@ -24,10 +24,10 @@
     <a href="https://www.linkedin.com/in/karansingh7568/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://twitter.com/theajayrawat">
+    <a href="https://twitter.com/KaranSingh734">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
-    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=theajayrawat@gmail.com">
+    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=7568680011karan@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
 </div>
@@ -37,7 +37,7 @@
 <h2>Coding Platform :</h2>
 
 <div id="badges">
-    <a href="https://leetcode.com/theajayrawat/">
+    <a href="https://leetcode.com/karansingh11/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leetcode Badge"/>
     </a>
 </div>
