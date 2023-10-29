@@ -8,7 +8,7 @@
 <div style="display:flex">
   <img align="right" alt="coding_img" width="200" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
 
-- I am currently learning  React and PHP 
+- I am currently learning  nextjs and building projects 
 
 - I post my tech journey on **Twitter**
 
